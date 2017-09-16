@@ -3,5 +3,8 @@
 
 Data Source: https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
-#### Built: Stack Auto Encoder using PyTorch.
+#### Model:
+- v1: Stacked Auto Encoder using PyTorch.
+- v2: Restricted Boltzmann Machine (*Soon*).
+
 #### Web Application - Soon -
